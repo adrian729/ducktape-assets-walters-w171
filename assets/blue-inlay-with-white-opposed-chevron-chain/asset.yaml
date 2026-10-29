@@ -1,0 +1,53 @@
+# descriptive: find it and understand it
+id: blue-inlay-with-white-opposed-chevron-chain
+title: Blue chevron inlay strip
+description: A narrow vertical strip of the painted inlay from the gold margin rod of the folio, a deep blue ground carrying a chain of cream opposed chevrons and short hooked bars drawn by hand in a loose zigzag, about three cycles tall. The painted edges are ragged and darken to black where the paint meets the gold of the rod; the background is transparent.
+type: divider
+categories:
+  - geometric
+subjects:
+  - chevron
+  - rod
+colors:
+  - blue
+  - cream
+  - black
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 10r
+render:
+  image: {}
+related:
+  - asset: walters-w171/blue-white-opposed-chevron-repeat
+    role: variant
+  - asset: walters-w171/pink-inlay-with-white-opposed-chevron-chain
+    role: companion
+  - asset: walters-w171/lower-left-rod-with-ivy-flourish-10r
+    role: variant
+usage_notes:
+  - Finite strip at the native size of the inlay; for a run of any length use blue-white-opposed-chevron-repeat, which is one cycle of this strip.
+  - The pink strip of the same rod is pink-inlay-with-white-opposed-chevron-chain; the two alternate on the rod.
+display_width:
+  - 60
+  - 170
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Native resolution of a band only about 150 px wide, so it softens when enlarged; the painted edges are ragged and the hand-drawn chevron spacing varies along the strip.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Seven planets (Saturn, Jupiter, Mars, sun, Venus, Mercury, and moon)
+  object_identifier: W.171, fol. 10r
+  date: 1400-1404 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000023_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: c5dd078f131c6014534bae097dd2e4aa92887b45917f4bf84f805fd785096b7a
+license: null

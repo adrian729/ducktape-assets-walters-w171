@@ -1,0 +1,53 @@
+# descriptive: find it and understand it
+id: left-dark-leafy-tree
+title: Slender tree with grey fruits, left
+description: A tall slender tree from the Fountain of Life miniature. A dark olive-brown trunk with gold flecks curves up from a cut base at the lower left to a small crown of dark green lobed leaves at the top, with pale grey-white fruits hanging among the upper leaves and a few leaves scattered down the right side of the stem. Painted edges, no outline; the background is transparent.
+type: illustration
+categories:
+  - botanical
+subjects:
+  - tree
+  - leaf
+  - fruit
+  - plant
+colors:
+  - green
+  - brown
+  - gray
+  - gold
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: 19v
+render:
+  image: {}
+related:
+  - asset: walters-w171/right-dark-leafy-tree
+    role: companion
+  - asset: walters-w171/gothic-tiered-fountain-with-water-jets
+    role: companion
+usage_notes:
+  - Stood to the left of the fountain in the miniature, with right-dark-leafy-tree on the other side; the trunk is cut flat at the base where it met the ground.
+display_width:
+  - 150
+  - 500
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The trunk base is a cut edge.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Fountain of life and the four rivers of paradise
+  object_identifier: W.171, fol. 19v
+  date: 1400-1404 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000042_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 7b8e07b49e49546ff6a8a9e461fec058f6e83b15735aa1c67478d248ab2765c3
+license: null

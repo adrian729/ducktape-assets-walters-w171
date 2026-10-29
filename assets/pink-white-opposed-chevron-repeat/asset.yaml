@@ -1,0 +1,71 @@
+# descriptive: find it and understand it
+id: pink-white-opposed-chevron-repeat
+title: Pink chevron inlay, repeat tile
+description: One cycle of the pink painted inlay of the gold margin rod, cut so the top and bottom edges join when stacked. A dusty pink-brown ground carries one hand-drawn pale cream chevron pair with short hooked bars, the paint ragged along the two long edges and darkening to black at the rim; the thin margins outside the paint are transparent.
+type: border
+categories:
+  - geometric
+subjects:
+  - chevron
+  - rod
+colors:
+  - pink
+  - cream
+  - black
+facing: none
+composition: repeat-tile
+
+# structural: how it is organised and related
+group: 10r
+render:
+  image: {}
+  tile:
+    axis: y
+    period: 1
+  frame:
+    corner: corner-top-left
+    slice: 30.77
+components:
+  corner-top-left:
+    master: corner-top-left.png
+    description: Top-left mitred corner of the same painted band, the two runs meeting on the diagonal; the piece the frame atlas mirrors to the other three corners.
+  corner-top-right:
+    master: corner-top-right.png
+    description: Top-right mitred corner of the same band, a rotated phase with the chevrons running on; not used by the generated atlas.
+  corner-bottom-left:
+    master: corner-bottom-left.png
+    description: Bottom-left mitred corner of the same band, a rotated phase with the chevrons running on; not used by the generated atlas.
+  corner-bottom-right:
+    master: corner-bottom-right.png
+    description: Bottom-right mitred corner of the same band, a rotated phase with the chevrons running on; not used by the generated atlas.
+related:
+  - asset: walters-w171/pink-inlay-with-white-opposed-chevron-chain
+    role: variant
+  - asset: walters-w171/blue-white-opposed-chevron-repeat
+    role: companion
+usage_notes:
+  - Repeats along y; the build's rotated ladder gives the horizontal run. One cycle only, so the hand-drawn irregularity of the strip repeats every tile.
+  - The frame atlas mirrors corner-top-left; the three other corner masters are the rotated phases for anyone composing a frame by hand with the chevrons running one way round.
+  - The whole native strip is pink-inlay-with-white-opposed-chevron-chain; the blue tile of the same rod is blue-white-opposed-chevron-repeat.
+display_width:
+  - 60
+  - 190
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Native resolution of a band about 150 px wide, so it softens when enlarged; the chevrons are faint against the pink, the join is a two-pixel averaged collar and the painted edges stay ragged.
+master: master.png
+provenance:
+  method: native-source-repeat
+  institution: Walters Art Museum
+  object_title: Seven planets (Saturn, Jupiter, Mars, sun, Venus, Mercury, and moon)
+  object_identifier: W.171, fol. 10r
+  date: 1400-1404 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000023_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: c5dd078f131c6014534bae097dd2e4aa92887b45917f4bf84f805fd785096b7a
+license: null

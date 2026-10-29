@@ -1,0 +1,53 @@
+# descriptive: find it and understand it
+id: fruit-tree-with-branching-trunk
+title: Tree of life with red fruits
+description: A tall tree with a straight olive-brown trunk edged in gold that spreads into a flat base of short roots and branches into three rounded clumps of dark green foliage, one above the other two. Twelve round rust-red fruits hang among the leaves, each with a dark stalk, and the leaves carry pale grey highlights and flecks of gold where the paint has worn. The background is transparent.
+type: illustration
+categories:
+  - botanical
+subjects:
+  - tree
+  - fruit
+  - leaf
+  - root
+colors:
+  - green
+  - orange
+  - brown
+  - gold
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: 74r
+render:
+  image: {}
+related:
+  - asset: walters-w171/upper-gold-rod-with-foliate-branch-74r
+    role: companion
+  - asset: walters-w171/lower-gold-rod-with-foliate-branch-74r
+    role: companion
+usage_notes:
+  - The main miniature of the folio; the two margin rods of the same folio (upper-gold-rod-with-foliate-branch-74r, lower-gold-rod-with-foliate-branch-74r) frame it on the page.
+display_width:
+  - 300
+  - 1000
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: AI-assisted extraction; the foliage keeps the original abrasion, with gold ground and pale losses flecking the leaves.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Tree of life with its twelve fruits
+  object_identifier: W.171, fol. 74r
+  date: 1400-1404 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000151_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 878b61a760f94af3ffe5387ab19269c7835067f75aa1bb6e884cf80467e0bc80
+license: null

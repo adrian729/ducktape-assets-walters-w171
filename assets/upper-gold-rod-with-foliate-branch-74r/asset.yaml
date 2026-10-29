@@ -1,0 +1,59 @@
+# descriptive: find it and understand it
+id: upper-gold-rod-with-foliate-branch-74r
+title: Margin rod with foliate branch, upper, fol. 74r
+description: A top-left corner piece of the page border. A tall vertical gold rod edged in pink, with a pink chevron inlay set into its middle, ends below in a pink curl with a gold trefoil and a red flower; at the top a gold leaf cluster sends a pink stem to the right along the top edge carrying gold trefoil ivy leaves, red and blue flowers with white centres and fine black hairline curls, and a small sprig with two gold buds hangs beside the rod. Black outlines throughout; the background is transparent.
+type: corner
+categories:
+  - floral
+  - scrollwork
+subjects:
+  - rod
+  - ivy
+  - leaf
+  - flower
+  - bud
+  - stem
+  - chevron
+  - margin
+colors:
+  - gold
+  - pink
+  - red
+  - blue
+  - black
+facing: right
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 74r
+render:
+  image: {}
+related:
+  - asset: walters-w171/lower-gold-rod-with-foliate-branch-74r
+    role: companion
+  - asset: walters-w171/fruit-tree-with-branching-trunk
+    role: companion
+usage_notes:
+  - Sits at the top-left of a page; lower-gold-rod-with-foliate-branch-74r is its bottom-left partner from the same folio, where the two frame the tree of life.
+display_width:
+  - 300
+  - 1000
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: AI-assisted extraction; the hairline curls and the bud sprig's stem are thin and partly broken.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Tree of life with its twelve fruits
+  object_identifier: W.171, fol. 74r
+  date: 1400-1404 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000151_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 878b61a760f94af3ffe5387ab19269c7835067f75aa1bb6e884cf80467e0bc80
+license: null

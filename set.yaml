@@ -1,0 +1,21 @@
+id: walters-w171
+title: Walters W.171, Table of Christian Faith diagrams
+summary: The seven planets, the twelve zodiac signs, the Tree of Life and the Fountain of Life with gold rods and ivy flourishes from Walters Ms. W.171, Duke Albrecht's Table of Christian Faith (winter part), 1400–1404, grouped by folio.
+kind: historical
+author: adrian729
+maintainer: https://github.com/adrian729/ducktape-assets/issues
+license:
+  artwork: CC0-1.0
+  notes: Extracted from Digital Walters manuscript images (CC0); see SOURCES.md.
+period: "1400–1404"
+region: Netherlands
+style: early 15th-century Dutch illumination
+origin:
+  institution: Walters Art Museum
+  object_identifier: "W.171"
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html
+tags:
+  - zodiac
+  - planets
+  - diagram
+  - ivy

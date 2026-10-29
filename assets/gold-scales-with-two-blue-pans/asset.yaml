@@ -1,0 +1,48 @@
+# descriptive: find it and understand it
+id: gold-scales-with-two-blue-pans
+title: Libra, balance with two blue pans
+description: The Libra sign from the zodiac initial. A blue beam edged with white rests on a gold and blue two-legged post topped by a small bird-like finial with a pale head and a red-spotted body; from each end of the beam three gold cords hang a round blue pan with white highlights. Black outlines; the background is transparent.
+type: illustration
+categories:
+  - geometric
+subjects:
+  - scales
+  - pan
+  - zodiac
+colors:
+  - blue
+  - gold
+  - red
+  - white
+facing: none
+view: front
+composition: standalone
+
+# structural: how it is organised and related
+group: 12r
+render:
+  image: {}
+usage_notes:
+  - One of eleven zodiac signs cut from the same initial; they share a scale and were painted on a gold ground, so they sit well on a gold or dark panel.
+display_width:
+  - 150
+  - 500
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Flecks of the gold ground of the initial remain on the paint and along the outline, and the cords are thin and ragged.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Twelve signs of the zodiac
+  object_identifier: W.171, fol. 12r
+  date: 1400-1404 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000027_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 73dc1cd136e9c21376977c2fc08e911e9afc54d53775dea977ca13bf76d7b3ab
+license: null

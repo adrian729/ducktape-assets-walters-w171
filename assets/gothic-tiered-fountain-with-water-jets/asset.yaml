@@ -1,0 +1,58 @@
+# descriptive: find it and understand it
+id: gothic-tiered-fountain-with-water-jets
+title: Gothic fountain of life
+description: The stone fountain from the Fountain of Life miniature, seen from slightly above. A grey-green octagonal basin on a stepped base carries an upper hexagonal basin and a central Gothic pavilion with pointed arches, crockets and a tall crocketed spire ending in a cross; two spouts in the upper basin and six spouts round the lower basin pour wavy white and blue jets of water down the sides. Gold highlights along the right edges, dark green shading; the background is transparent.
+type: illustration
+categories:
+  - geometric
+subjects:
+  - fountain
+  - architecture
+  - spire
+  - water
+colors:
+  - green
+  - gray
+  - gold
+  - white
+  - blue
+facing: none
+view: three-quarter
+composition: standalone
+
+# structural: how it is organised and related
+group: 19v
+render:
+  image: {}
+related:
+  - asset: walters-w171/left-dark-leafy-tree
+    role: companion
+  - asset: walters-w171/right-dark-leafy-tree
+    role: companion
+  - asset: walters-w171/upper-gold-rod-with-foliate-branch-19v
+    role: companion
+  - asset: walters-w171/lower-gold-rod-with-foliate-branch-19v
+    role: companion
+usage_notes:
+  - Centrepiece of the miniature, flanked by left-dark-leafy-tree and right-dark-leafy-tree; the water jets end at the basin foot, so set it on a ground or a dark panel.
+display_width:
+  - 250
+  - 800
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Fountain of life and the four rivers of paradise
+  object_identifier: W.171, fol. 19v
+  date: 1400-1404 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000042_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 7b8e07b49e49546ff6a8a9e461fec058f6e83b15735aa1c67478d248ab2765c3
+license: null

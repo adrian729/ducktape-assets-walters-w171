@@ -1,0 +1,45 @@
+# descriptive: find it and understand it
+id: small-irregular-gold-star
+title: Seven-pointed gold star
+description: A small hand-painted gold star with seven uneven rays of different lengths radiating from a lumpy centre, the gold speckled with dark pits where it has worn. The background is transparent.
+type: ornament
+categories:
+  - geometric
+subjects:
+  - star
+  - sky
+colors:
+  - gold
+  - yellow
+  - brown
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 10r
+render:
+  image: {}
+usage_notes:
+  - A loose star from the folio, not one of the three six-pointed stars inside oval-celestial-scene-with-stars-and-crescent; scatter it over a dark ground.
+display_width:
+  - 40
+  - 160
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Only 222 px wide and painted roughly, with worn pits in the gold; it softens when enlarged.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Seven planets (Saturn, Jupiter, Mars, sun, Venus, Mercury, and moon)
+  object_identifier: W.171, fol. 10r
+  date: 1400-1404 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000023_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: c5dd078f131c6014534bae097dd2e4aa92887b45917f4bf84f805fd785096b7a
+license: null

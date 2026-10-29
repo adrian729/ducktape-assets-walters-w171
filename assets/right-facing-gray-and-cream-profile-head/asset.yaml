@@ -1,0 +1,47 @@
+# descriptive: find it and understand it
+id: right-facing-gray-and-cream-profile-head
+title: Small profile head facing right
+description: A tiny head in profile facing right, drawn in purple contours on a pale cream and grey ground with a rounded cap-like top, a long nose and a dark eye, isolated from a gilt roundel in the margin decoration. The paint is weathered and the contours soft. The background is transparent.
+type: illustration
+categories:
+  - humans
+subjects:
+  - head
+  - face
+  - marginalia
+colors:
+  - cream
+  - gray
+  - purple
+facing: right
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
+group: 10r
+render:
+  image: {}
+usage_notes:
+  - Keep it small; the face only reads at thumbnail size and dissolves into pigment grain when enlarged.
+display_width:
+  - 60
+  - 180
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Only 187 px wide and soft; the features are faint purple lines on a weathered ground and the cut edge is irregular.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Seven planets (Saturn, Jupiter, Mars, sun, Venus, Mercury, and moon)
+  object_identifier: W.171, fol. 10r
+  date: 1400-1404 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000023_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: c5dd078f131c6014534bae097dd2e4aa92887b45917f4bf84f805fd785096b7a
+license: null

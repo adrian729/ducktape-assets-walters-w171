@@ -1,0 +1,62 @@
+# descriptive: find it and understand it
+id: lower-left-rod-with-ivy-flourish-10r
+title: Margin rod with ivy spray, fol. 10r
+description: A bottom-left corner piece of the page border. A vertical gold rod edged in pink, with a blue and a pink chevron inlay set into it, ends above in a pink curl with a blue flower and gold trefoil leaves and below in a gold leaf cluster, from which a pink stem runs to the right along the bottom carrying gold trefoil ivy leaves, blue and rust-pink flowers and fine black hairline tendrils. The stem is cut at the top edge where it continued up the margin; the background is transparent.
+type: corner
+categories:
+  - floral
+  - scrollwork
+subjects:
+  - rod
+  - ivy
+  - leaf
+  - flower
+  - stem
+  - chevron
+  - margin
+colors:
+  - gold
+  - pink
+  - blue
+  - black
+facing: right
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 10r
+render:
+  image: {}
+related:
+  - asset: walters-w171/blue-inlay-with-white-opposed-chevron-chain
+    role: variant
+  - asset: walters-w171/pink-inlay-with-white-opposed-chevron-chain
+    role: variant
+  - asset: walters-w171/upper-left-curled-ivy-with-trefoils
+    role: companion
+  - asset: walters-w171/upper-blue-and-rust-ivy-sprig
+    role: companion
+usage_notes:
+  - Sits at the bottom-left of a page with the rod up the left margin and the spray along the bottom; the rod's top is cut, so hide it or continue it with a drawn rule.
+  - The two chevron inlays of the rod are also available as strips and repeat tiles (blue-inlay-with-white-opposed-chevron-chain, pink-inlay-with-white-opposed-chevron-chain).
+display_width:
+  - 300
+  - 1000
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: AI-assisted extraction; the hairline tendrils are thin and partly broken, and the rod's cut top edge is not a finished end.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Seven planets (Saturn, Jupiter, Mars, sun, Venus, Mercury, and moon)
+  object_identifier: W.171, fol. 10r
+  date: 1400-1404 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000023_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: c5dd078f131c6014534bae097dd2e4aa92887b45917f4bf84f805fd785096b7a
+license: null

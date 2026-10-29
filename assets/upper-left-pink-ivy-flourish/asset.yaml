@@ -1,0 +1,54 @@
+# descriptive: find it and understand it
+id: upper-left-pink-ivy-flourish
+title: Ivy spray corner, upper left, fol. 12r
+description: A top-left corner piece of the page border without a rod. A pink stem edged in white rises from a spiral at the lower left, where a gold trefoil leaf and a blue flower sit inside the curl, bends over and runs to the right along the top carrying gold trefoil ivy leaves with white centres, two blue and two red-orange bell flowers and fine black hairline tendrils; a second small spiral with a gold leaf closes the stem at the bottom. Black outlines; the background is transparent.
+type: corner
+categories:
+  - floral
+  - scrollwork
+subjects:
+  - ivy
+  - leaf
+  - flower
+  - stem
+  - flourish
+  - margin
+colors:
+  - pink
+  - gold
+  - blue
+  - red
+  - black
+facing: right
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 12r
+render:
+  image: {}
+related:
+  - asset: walters-w171/lower-left-rod-with-ivy-flourish-12r
+    role: companion
+usage_notes:
+  - Sits at the top-left of a page with the spray along the top edge; lower-left-rod-with-ivy-flourish-12r is its bottom-left partner from the same folio, where the two frame the zodiac initial.
+display_width:
+  - 300
+  - 1000
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Twelve signs of the zodiac
+  object_identifier: W.171, fol. 12r
+  date: 1400-1404 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000027_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 73dc1cd136e9c21376977c2fc08e911e9afc54d53775dea977ca13bf76d7b3ab
+license: null

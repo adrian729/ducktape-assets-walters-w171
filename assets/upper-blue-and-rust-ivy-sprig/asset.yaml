@@ -1,0 +1,55 @@
+# descriptive: find it and understand it
+id: upper-blue-and-rust-ivy-sprig
+title: Ivy sprig with blue and rust flowers
+description: A sprig of three flowers on a dark green-black stem that curls in a loop at the centre and ends in fine hairline tendrils. A blue flower with white highlights sits at the upper left, a second blue one hangs at the bottom, and a rust-orange flower with a dark red bud opens to the right; all are outlined in near-black. The paint is worn, with pale parchment showing through the petals. The background is transparent.
+type: ornament
+categories:
+  - floral
+subjects:
+  - sprig
+  - flower
+  - bud
+  - stem
+  - ivy
+  - margin
+colors:
+  - blue
+  - orange
+  - black
+  - white
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 10r
+render:
+  image: {}
+related:
+  - asset: walters-w171/lower-left-rod-with-ivy-flourish-10r
+    role: companion
+  - asset: walters-w171/upper-left-curled-ivy-with-trefoils
+    role: companion
+usage_notes:
+  - From the upper margin of the folio whose left and lower margins are lower-left-rod-with-ivy-flourish-10r; it reads as a loose spray and needs no stem to attach to.
+display_width:
+  - 200
+  - 800
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: AI-assisted extraction; the petals keep the original flaking with pale losses, and the hairline tendrils are thin.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Seven planets (Saturn, Jupiter, Mars, sun, Venus, Mercury, and moon)
+  object_identifier: W.171, fol. 10r
+  date: 1400-1404 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000023_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: c5dd078f131c6014534bae097dd2e4aa92887b45917f4bf84f805fd785096b7a
+license: null

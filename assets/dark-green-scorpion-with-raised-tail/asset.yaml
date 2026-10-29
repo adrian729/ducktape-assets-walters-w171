@@ -1,0 +1,49 @@
+# descriptive: find it and understand it
+id: dark-green-scorpion-with-raised-tail
+title: Scorpio, dark green scorpion
+description: The Scorpio sign from the zodiac initial, drawn as a dark green lizard-like creature rather than a bird. A plump body lies diagonally with a long tapering tail pointing to the upper left, two tufts of spiky legs on the underside and a small curled head with bristling appendages at the lower right. Dark green with gold-brown streaks and black shading; the background is transparent.
+type: illustration
+categories:
+  - animals
+  - fantasy
+subjects:
+  - scorpion
+  - creature
+  - zodiac
+colors:
+  - green
+  - black
+  - gold
+facing: right
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
+group: 12r
+render:
+  image: {}
+usage_notes:
+  - One of eleven zodiac signs cut from the same initial; they share a scale and were painted on a gold ground, so they sit well on a gold or dark panel.
+  - The pointed end at the upper left is the tail, not a beak; the head is the small curled end at the lower right.
+display_width:
+  - 150
+  - 500
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Flecks of the gold ground of the initial remain on the paint and along the outline.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Twelve signs of the zodiac
+  object_identifier: W.171, fol. 12r
+  date: 1400-1404 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000027_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 73dc1cd136e9c21376977c2fc08e911e9afc54d53775dea977ca13bf76d7b3ab
+license: null
