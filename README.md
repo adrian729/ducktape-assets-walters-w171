@@ -3,7 +3,7 @@
 
 The seven planets, the twelve zodiac signs, the Tree of Life and the Fountain of Life with gold rods and ivy flourishes from Walters Ms. W.171, Duke Albrecht's Table of Christian Faith (winter part), 1400–1404, grouped by folio.
 
-Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `walters-w171`, historical, 35 assets.
+Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `walters-w171`, historical, 35 assets, version 1.0.0.
 
 ## Licence and attribution
 
@@ -13,10 +13,10 @@ Author: adrian729. Maintainer: https://github.com/adrian729/ducktape-assets/issu
 
 ## Use one asset
 
-No version is published yet. Once it is, pin the exact version (never `@latest`); the URL scheme is:
+Pin the exact version (never `@latest`). For `walters-w171/blue-inlay-with-white-opposed-chevron-chain`:
 
-```
-https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-walters-w171@<version>/webp/<asset-id>-<width>.webp
+```html
+<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-walters-w171@1.0.0/webp/blue-inlay-with-white-opposed-chevron-chain-64.webp" alt="" loading="lazy">
 ```
 
 Package `@ranx729/ducktape-assets-walters-w171`; every file, width and format is listed in its `manifest.json`. Masters live in git under `assets/<id>/` and in `@ranx729/ducktape-assets-walters-w171-masters`; never put a master on a page.
